@@ -1,6 +1,8 @@
 # Uber-Analytics-Dashboard
 Power BI dashboard analyzing Uber ride data to uncover booking trends, revenue performance, customer behavior, cancellation patterns, and operational insights.
 
+![Dashboard Preview](dashboard_preview.png)
+
 # 🚖 Uber Ride Analytics Dashboard
 
 ## 📊 Project Overview
